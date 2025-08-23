@@ -1,5 +1,5 @@
 # Erika Furudo animated cursor
-THIS IS NOT MINE I DIDN'T MAKE IT!!!
+THIS IS NOT MINE I DIDN'T MAKE IT!!! I am only reuploading to github so I can declaratively install this adorable cursor on my nixos machines.
 
 Original artist (makes a bunch of cool cursors, go pay them): https://ko-fi.com/s/869b86e3b4
 Original linux porter (wouldn't have been possible without them either xoxo): https://www.gnome-look.org/u/pxryzl
