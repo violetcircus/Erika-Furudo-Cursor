@@ -1,7 +1,15 @@
-# Erika Furudo animated cursor
-THIS IS NOT MINE I DIDN'T MAKE IT!!! I am only reuploading to github so I can declaratively install this adorable cursor on my nixos machines.
+# cursor repo for making my life easier on nix os
+## THESE CURSORS ARE NOT MINE I DIDN'T MAKE THEM!!! I am only reuploading to github so I can declaratively install these adorable cursor on my nixos machines.
 
-Original artist (makes a bunch of cool cursors, go pay them): https://ko-fi.com/s/869b86e3b4
-Original linux porter (wouldn't have been possible without them either xoxo): https://www.gnome-look.org/u/pxryzl
+this wouldn't be possible without these awesome people:
+ 
+Erika credits:
+Original artist: https://ko-fi.com/s/869b86e3b4
+Original linux porter: https://www.gnome-look.org/u/pxryzl
 
-I might dump other cursors in this repo at some point. Also I wouldn't have reuploaded here if the original cursor wasn't free anyway
+Marisa credits:
+Original artist: https://www.pixiv.net/en/users/345405
+Original linux port: https://www.gnome-look.org/p/2113061
+
+all cursors uploaded here were free to download from their original creators.
+
